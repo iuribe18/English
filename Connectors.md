@@ -2,7 +2,9 @@
 ## Additive connectors: Complement ideas, add information.
 
 **And**
+
 He went to the store, **and** he bought some milk.
+
 DevOps practices promote collaboration between dev **and** ops teams, **and** cloud computing platforms provide the infra needed to support CI/CD pipelines.
 
 **Also**
