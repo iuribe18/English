@@ -1,7 +1,7 @@
 # Connectors
 ## Additive connectors: Complement ideas, add information.
 
-**And**
+<span style="color:red"><strong>And</strong></span>
 
 He went to the store, **and** he bought some milk.
 
